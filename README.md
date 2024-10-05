@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD ZISHAN SHAIKH</h1>
-<h3 align="center">A passionate Android and backend developer from India</h3>
+<h3 align="center">A passionate Android and Backend Developer from India</h3>
 
 
 
